@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_login</name>
+   <tag></tag>
+   <elementGuidId>41f1a1c8-c0e0-4963-8276-3138af4155bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d8b0f414-7726-4f8b-ad9d-7533aaff77d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs h-10 w-full capitalize button text-skin-button-primary button-primary font-bold</value>
+      <webElementGuid>9ba5f1ce-003f-40b5-8434-e84d20f66f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>3a44e292-797c-4d53-a3e1-8585e71b2f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>login</value>
+      <webElementGuid>5699c990-0ed4-453f-afb4-2b1354d47d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-green&quot;]/div[1]/div[@class=&quot;web:flex web:flex-1 app-container with-header-navbar bg-main rounded-[32px] overflow-hidden p-0 pb-2 web:pb-0 web:mb-2&quot;]/div[@class=&quot;w-full h-full web:relative&quot;]/div[@class=&quot;absolute z-[101] top-0 bottom-0 left-0 right-0 mobile:h-fit mobile:mt-[50px] mobile:px-2&quot;]/div[@class=&quot;opacity-100 scale-100&quot;]/div[@class=&quot;main-container mobile:with-header-navbar p-0&quot;]/div[@class=&quot;wrapper-content w-full h-full mobile:px-5 pt-10 mobile:pb-3 py-0&quot;]/div[@class=&quot;relative flex h-full web:items-center&quot;]/div[@class=&quot;w-full overflow-y-auto web:max-w-xl mx-auto no-scrollbar mobile:pb-10&quot;]/form[@class=&quot;flex flex-col space-y-[10%] justify-between mt-5 mobile:px-5&quot;]/div[@class=&quot;mobile:absolute mobile:bottom-0 mobile:left-0 mobile:right-0&quot;]/button[@class=&quot;flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs h-10 w-full capitalize button text-skin-button-primary button-primary font-bold&quot;]</value>
+      <webElementGuid>6a419fbd-e169-4b2a-9668-94a2e74d4b3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button</value>
+      <webElementGuid>f6b091d4-89a1-46f3-83ab-eaf6df929062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'login' or . = 'login')]</value>
+      <webElementGuid>3028954d-45ce-4a61-bf75-e8ad33cab55a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih</name>
+   <tag></tag>
+   <elementGuidId>402a0ddc-5510-47be-b9ae-17fbca065186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d777611a-4b54-46f9-8665-df7de2ccc2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs h-10 w-full capitalize button text-skin-button-primary button-primary font-bold</value>
+      <webElementGuid>58d289e9-538f-4997-8143-5758c7a64f1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih</value>
+      <webElementGuid>531f4918-754b-4fb9-9050-73241b4b1c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-violet&quot;]/div[1]/div[@class=&quot;web:flex web:flex-1 app-container with-header-navbar bg-main rounded-[32px] overflow-hidden p-0 pb-2 web:pb-0 web:mb-2&quot;]/div[@class=&quot;w-full h-full web:relative&quot;]/div[@class=&quot;absolute z-[101] top-0 bottom-0 left-0 right-0 mobile:h-fit mobile:mt-[50px] mobile:px-2&quot;]/div[@class=&quot;mobile:bg-body opacity-100 scale-100&quot;]/div[@class=&quot;main-container mobile:with-header-navbar p-0 web:backdrop-brightness-50&quot;]/div[@class=&quot;wrapper-content w-full h-full mobile:px-4 pt-10 web:pb-5 mobile:pb-3 py-0 web:bg-transparent&quot;]/div[@class=&quot;relative flex h-full overflow-hidden web:items-center&quot;]/div[@class=&quot;w-full h-full web:max-w-md mx-auto web:bg-main web:p-6 web:pb-0 web:rounded-[20px]&quot;]/div[@class=&quot;mobile:absolute mobile:bottom-0 mobile:left-0 mobile:right-0 mobile:bg-main web:h-[65px] web:flex web:items-center web:justify-center&quot;]/button[@class=&quot;flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs h-10 w-full capitalize button text-skin-button-primary button-primary font-bold&quot;]</value>
+      <webElementGuid>c9345a4f-7a54-4f7d-8f52-2e0c47b87e3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>173a7129-cfd3-4e17-be38-db6acdae1b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pilih' or . = 'Pilih')]</value>
+      <webElementGuid>7f531ece-89f3-4794-b83b-2ce1b88e104c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

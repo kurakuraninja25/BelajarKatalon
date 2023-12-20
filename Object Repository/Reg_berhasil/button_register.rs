@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_register</name>
+   <tag></tag>
+   <elementGuidId>143825ac-0d09-44c8-afb2-4af79dd180f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e05c83ee-ea22-4d6f-8375-023d0fca25ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs undefined button text-skin-button-primary button-primary font-bold</value>
+      <webElementGuid>be57a57b-0e01-4350-9c32-4843760f4235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>register</value>
+      <webElementGuid>f310d6cd-867c-490b-81de-d7ca2e864c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-violet&quot;]/div[1]/header[@class=&quot;flex items-center justify-between h-[50px] web:h-[92px] mx-[8px]&quot;]/div[@class=&quot;flex items-center gap-[10px]&quot;]/a[2]/button[@class=&quot;flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs undefined button text-skin-button-primary button-primary font-bold&quot;]</value>
+      <webElementGuid>6d02f995-f2d1-461e-9eff-4850bbaab92b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/button</value>
+      <webElementGuid>da14c5fb-424e-4ee2-833d-e877898cc17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'register' or . = 'register')]</value>
+      <webElementGuid>b983e758-95a9-4ffa-89ae-50f1b0d32de9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

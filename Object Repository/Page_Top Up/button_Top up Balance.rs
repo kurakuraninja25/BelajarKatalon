@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Top up Balance</name>
+   <tag></tag>
+   <elementGuidId>065486fb-3984-4b8e-a174-132fc2add20e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4efb2241-8eeb-49d2-b1fe-d92c69a5060d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs h-10 w-full button text-skin-button-primary button-primary font-bold</value>
+      <webElementGuid>6c77f1e9-e30a-4298-8296-aa75ad0e278a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>c1aa3f70-c2d4-4237-8aee-55dc53f43cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Top up Balance</value>
+      <webElementGuid>393d819e-910d-458e-a34b-b17f99a36f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-green&quot;]/div[1]/div[@class=&quot;web:flex web:flex-1 app-container with-header-navbar bg-main rounded-[32px] overflow-hidden p-0 pb-2 web:pb-0 web:mb-2&quot;]/div[@class=&quot;w-full h-full web:relative&quot;]/div[@class=&quot;main-container mobile:with-header-navbar p-0&quot;]/div[@class=&quot;wrapper-content w-full h-full overflow-hidden mobile:px-6 mobile:pt-4 web:px-12 web:pt-6&quot;]/div[@class=&quot;relative h-full&quot;]/div[@class=&quot;h-full max-w-xl mx-auto overflow-y-auto pt-[27px] pl-[28px] pr-[19px] web:pt-16 no-scrollbar mobile:pb-10&quot;]/form[@class=&quot;flex flex-col space-y-[15px] justify-between&quot;]/div[@class=&quot;mobile:absolute mobile:bottom-0 mobile:left-0 mobile:right-0 mobile:bg-main mobile:py-4 web:pb-24&quot;]/button[@class=&quot;flex justify-center items-center uppercase cursor-pointer transition ease-in-out duration-200 focus-visible:outline-none focus:outline-none text-xs h-10 w-full button text-skin-button-primary button-primary font-bold&quot;]</value>
+      <webElementGuid>eaf93f33-4a87-4128-b2a7-6dd7a7db0654</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>e634c08e-8213-499a-a0f9-0b9782bbf3d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/button</value>
+      <webElementGuid>612f43ec-6a08-4ed6-b40b-4382160d8520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Top up Balance' or . = 'Top up Balance')]</value>
+      <webElementGuid>429263c6-8d12-42e3-b808-96d3f3183535</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

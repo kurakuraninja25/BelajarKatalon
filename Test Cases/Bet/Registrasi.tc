@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registrasi</name>
+   <tag>@smoke</tag>
+   <comment></comment>
+   <testCaseGuid>c3449c11-0d00-48bd-b771-943b2a13837c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>8ff87f0c-546c-4790-b16f-8cb3a4555d77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.w-6.h-6.text-skin-primary > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e93150ba-ab87-4bf0-b84b-0cc488818c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>b50004bf-404b-4a2b-95ee-d1f1e0d0438c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>70fb09e5-5f7f-4a6a-9041-c6e19f343455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0.5</value>
+      <webElementGuid>e03b1251-2901-4e66-b695-9b872865945a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M13.414 12.004l6.3-6.29a1.004 1.004 0 10-1.42-1.42l-6.29 6.3-6.29-6.3a1.004 1.004 0 10-1.42 1.42l6.3 6.29-6.3 6.29a1.004 1.004 0 001.42 1.42l6.29-6.3 6.29 6.3a1.004 1.004 0 101.42-1.42l-6.3-6.29z</value>
+      <webElementGuid>5d1f765a-2b70-4f57-a3d1-d359ffc7741b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-violet&quot;]/div[1]/div[@class=&quot;web:flex web:flex-1 app-container with-header-navbar bg-main rounded-[32px] overflow-hidden p-0 pb-2 web:pb-0 web:mb-2&quot;]/div[@class=&quot;w-full h-full web:relative&quot;]/div[@class=&quot;absolute z-[101] top-0 bottom-0 left-0 right-0 mobile:h-fit mobile:mt-[50px] mobile:px-2&quot;]/div[@class=&quot;opacity-100 scale-100&quot;]/div[@class=&quot;main-container mobile:with-header-navbar p-0&quot;]/div[@class=&quot;wrapper-content w-full h-full mobile:px-5 pt-10 mobile:pb-3 py-0&quot;]/a[@class=&quot;mobile:hidden absolute top-8 right-8&quot;]/svg[@class=&quot;w-6 h-6 text-skin-primary&quot;]/path[1]</value>
+      <webElementGuid>e72ba557-7c22-465a-972f-00348c65d6b4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

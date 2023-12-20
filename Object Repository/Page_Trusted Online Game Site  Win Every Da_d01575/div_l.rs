@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_l</name>
+   <tag></tag>
+   <elementGuidId>cb30a4b5-bae5-4818-b82c-96c320b34628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.items-center.justify-center.w-10.h-10.rounded-2xl.border.uppercase.bg-brand-body.text-brand-primary.font-bold.border-brand-primary.border-avatar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09cc5644-924f-4c56-a8f9-6cb5b7ae6d45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-center w-10 h-10 rounded-2xl border uppercase bg-brand-body text-brand-primary font-bold border-brand-primary border-avatar</value>
+      <webElementGuid>ad41b30f-f5d0-462c-97fc-25fb08db4a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>l</value>
+      <webElementGuid>8cd95748-ad49-4c54-a5f5-abab75027c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-green&quot;]/div[1]/header[@class=&quot;flex items-center justify-between h-[50px] web:h-[92px] mx-[8px]&quot;]/div[@class=&quot;flex items-center gap-[10px] web:gap-12&quot;]/a[2]/div[@class=&quot;flex items-center justify-center w-10 h-10 rounded-2xl border uppercase bg-brand-body text-brand-primary font-bold border-brand-primary border-avatar&quot;]</value>
+      <webElementGuid>ca1fb868-4fe9-4742-b375-4c35a85298c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>6ac69b3c-dc6a-450d-92bd-42d1b3bf3fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'l' or . = 'l')]</value>
+      <webElementGuid>f01f0140-d5b0-46d5-a1f9-bd8305dfceae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

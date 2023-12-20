@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>registrasi dengan email sama</description>
+   <name>Regis_email</name>
+   <tag>@registrasi</tag>
+   <comment></comment>
+   <testCaseGuid>d6ffa06f-6781-4c67-ba7b-b5d9fcd4a110</testCaseGuid>
+</TestCaseEntity>

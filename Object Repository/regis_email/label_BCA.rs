@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_BCA</name>
+   <tag></tag>
+   <elementGuidId>749c18aa-eb75-40f9-8326-1f7f59a1615c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.flex.items-center.justify-between.text-skin-secondary.text-sm.font-normal.py-2.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f95ea9b9-eaab-4dda-bf44-bfcaf3eda260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>bca</value>
+      <webElementGuid>a1b959b3-44e3-46ab-8f74-e9485683fc11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-between text-skin-secondary text-sm font-normal py-2 cursor-pointer</value>
+      <webElementGuid>05e6f93a-2bb7-4bf2-a595-8366801a0fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BCA</value>
+      <webElementGuid>ec16d730-83d7-426b-ab88-fd350b8dc76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-violet&quot;]/div[1]/div[@class=&quot;web:flex web:flex-1 app-container with-header-navbar bg-main rounded-[32px] overflow-hidden p-0 pb-2 web:pb-0 web:mb-2&quot;]/div[@class=&quot;w-full h-full web:relative&quot;]/div[@class=&quot;absolute z-[101] top-0 bottom-0 left-0 right-0 mobile:h-fit mobile:mt-[50px] mobile:px-2&quot;]/div[@class=&quot;mobile:bg-body opacity-100 scale-100&quot;]/div[@class=&quot;main-container mobile:with-header-navbar p-0 web:backdrop-brightness-50&quot;]/div[@class=&quot;wrapper-content w-full h-full mobile:px-4 pt-10 web:pb-5 mobile:pb-3 py-0 web:bg-transparent&quot;]/div[@class=&quot;relative flex h-full overflow-hidden web:items-center&quot;]/div[@class=&quot;w-full h-full web:max-w-md mx-auto web:bg-main web:p-6 web:pb-0 web:rounded-[20px]&quot;]/div[@class=&quot;h-[calc(100%-160px)] web:h-[calc(100%-180px)] overflow-y-auto no-scrollbar mobile:px-2&quot;]/div[@class=&quot;capitalize mb-9&quot;]/label[@class=&quot;flex items-center justify-between text-skin-secondary text-sm font-normal py-2 cursor-pointer&quot;]</value>
+      <webElementGuid>dc206e93-02af-4a5e-97cb-1e6ca808c3fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>66fa62f8-b08b-4e16-a555-04df1cb56cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'BCA' or . = 'BCA')]</value>
+      <webElementGuid>caa0f077-1677-49b4-b7de-0cd3583c3290</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

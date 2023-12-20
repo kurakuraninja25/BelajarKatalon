@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Top Up</name>
+   <tag></tag>
+   <elementGuidId>b993c41d-d229-41d6-afa6-e65685adc7a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wrapper-header-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(@href, '/topup')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b0298bb9-0e92-4b77-a6b1-2eff8d8f1c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wrapper-header-button</value>
+      <webElementGuid>cec504ae-efce-4ea5-a799-e5cb51301075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/topup</value>
+      <webElementGuid>2c13809c-b142-4307-8ef9-3f7b09f82ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Top Up</value>
+      <webElementGuid>ff1e31ce-20d6-43c2-aa54-9659128a2eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-green&quot;]/div[1]/header[@class=&quot;flex items-center justify-between h-[50px] web:h-[92px] mx-[8px]&quot;]/div[@class=&quot;flex items-center gap-[10px] web:gap-12&quot;]/div[@class=&quot;flex gap-[10px] web:gap-5&quot;]/div[@class=&quot;mobile-m:hidden&quot;]/a[@class=&quot;wrapper-header-button&quot;]</value>
+      <webElementGuid>0bc64456-0b4f-457b-b552-592d7c66d860</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/topup')]</value>
+      <webElementGuid>e45b8f39-21fd-43b5-8be2-9c30e36e93a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>ba5ba0ae-2b8d-477e-a12c-d90a7e1d615c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/topup' and (text() = 'Top Up' or . = 'Top Up')]</value>
+      <webElementGuid>bcf37cf7-8316-4ed4-89ea-7ec7a54c1ce4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

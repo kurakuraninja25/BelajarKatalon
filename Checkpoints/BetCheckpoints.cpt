@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>BetCheckpoints</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/BetTestData</source-url>
+   </source-info>
+   <taken-date>2023-12-19T13:53:53.816+07:00</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "labalaba",
+      "checked": true
+    },
+    {
+      "value": "p4y+y39Ir5MTnmIMzlS5SQ\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "beruang",
+      "checked": true
+    },
+    {
+      "value": "p4y+y39Ir5MTnmIMzlS5SQ\u003d\u003d",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "nagabiru",
+      "checked": true
+    },
+    {
+      "value": "p4y+y39Ir5MTnmIMzlS5SQ\u003d\u003d",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

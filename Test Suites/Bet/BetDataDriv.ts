@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>BetDataDriv</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>7a225e3e-3ef9-41df-8f2b-e5809933b07d</testSuiteGuid>
+   <testCaseLink>
+      <guid>8259c479-c964-4262-8397-5eb51e450d17</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Bet/LoginDataDriv</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>81c4faec-5919-42e7-9eba-b87a09a5f285</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/BetTestData</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>81c4faec-5919-42e7-9eba-b87a09a5f285</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>96212fcd-cb80-4b9d-85c9-9a03892209de</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>81c4faec-5919-42e7-9eba-b87a09a5f285</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>6074904b-1712-4d55-956f-37ccdcd499ad</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

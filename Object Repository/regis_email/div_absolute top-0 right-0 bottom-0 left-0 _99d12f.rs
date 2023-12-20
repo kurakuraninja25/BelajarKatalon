@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_absolute top-0 right-0 bottom-0 left-0 _99d12f</name>
+   <tag></tag>
+   <elementGuidId>c71048a0-2c8d-46f5-bd52-40d09b5eb983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.absolute.top-0.right-0.bottom-0.left-0.flex.px-4.justify-end</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65772214-cd61-428e-a422-0a2cbe223528</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute top-0 right-0 bottom-0 left-0 flex px-4 justify-end</value>
+      <webElementGuid>7dc5c747-ec35-40ca-8821-dd94650edd6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-body __className_b2e2fc theme-gray-violet&quot;]/div[1]/div[@class=&quot;web:flex web:flex-1 app-container with-header-navbar bg-main rounded-[32px] overflow-hidden p-0 pb-2 web:pb-0 web:mb-2&quot;]/div[@class=&quot;w-full h-full web:relative&quot;]/div[@class=&quot;absolute z-[101] top-0 bottom-0 left-0 right-0 mobile:h-fit mobile:mt-[50px] mobile:px-2&quot;]/div[@class=&quot;bg-body opacity-100 scale-100&quot;]/div[@class=&quot;main-container mobile:with-header-navbar p-0&quot;]/div[@class=&quot;wrapper-content w-full h-full mobile:px-5 pt-10 mobile:pb-3 py-0&quot;]/div[@class=&quot;relative flex h-full overflow-hidden web:items-center&quot;]/div[@class=&quot;w-full h-full overflow-y-auto web:max-w-xl mx-auto no-scrollbar&quot;]/div[@class=&quot;flex h-full overflow-y-auto no-scrollbar&quot;]/form[@class=&quot;flex flex-1 flex-col space-y-[5%] justify-between mt-5 mobile:px-5&quot;]/div[@class=&quot;h-fit mobile:pb-36&quot;]/div[@class=&quot;mb-14&quot;]/div[@class=&quot;wrapper-input-group undefined&quot;]/div[@class=&quot;wrapper_input w-full cursor-pointer&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;absolute top-0 right-0 bottom-0 left-0 flex px-4 justify-end&quot;]</value>
+      <webElementGuid>740a78a4-e741-4a9a-afb9-2a28e406d92a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d13b266f-9919-4ab3-92a4-a1273ea1e51b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
